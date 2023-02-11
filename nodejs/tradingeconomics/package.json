@@ -31,7 +31,7 @@
     "date-and-time": "^0.8.1",
     "module": "^1.2.5",
     "node-fetch": "^2.6.0",
-    "prettyjson": "^1.2.1"
+    "prettyjson": "^1.2.5"
   },
   "deprecated": false,
   "description": "Node package on how to access Trading Economics API data.",
