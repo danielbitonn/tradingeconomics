@@ -15,8 +15,8 @@
     "inquirer": "^6.5.0",
     "node-fetch": "^2.6.0",
     "promise": "^8.0.3",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "superagent": "^5.1.0",
     "tradingeconomics": "file:tradingeconomics"
   }
