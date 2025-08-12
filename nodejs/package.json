@@ -12,7 +12,7 @@
     "bl": "^3.0.0",
     "deasync": "^0.1.15",
     "http": "0.0.0",
-    "inquirer": "^6.5.0",
+    "inquirer": "^8.2.7",
     "node-fetch": "^2.6.0",
     "promise": "^8.0.3",
     "request": "^2.88.0",
